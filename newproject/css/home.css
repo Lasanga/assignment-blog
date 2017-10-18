@@ -1,0 +1,55 @@
+body{
+	
+	margin: 0px;
+	padding: 20px 20px 10px 20px;
+	display: block;
+	box-sizing: border-box;
+	background-image: url("../images/cover.jpeg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+	min-width: 75%;
+}
+
+.heading{
+	text-align: center;
+	font-size: 60px;
+}
+.wrapper{
+	background-attachment: fixed;
+	background-position: top;
+}
+#newpost{
+	display: none;
+	padding: 20px 10px 20px 10px;
+	margin: 6px;
+}
+#newpost2{
+	display: none;
+	padding: 20px 10px 20px 10px;
+	margin: 6px;
+}
+.hidbutton{
+	padding: 10px;
+	margin: 5px;
+	text-align: center;
+}
+.bt2{
+	padding: 10px;
+	margin: 5px;
+ 	text-align: center;
+}
+
+.col-sm-10{
+	opacity: 0.7;
+}
+.footer-area{
+	position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+}
+		

@@ -1,0 +1,205 @@
+html{
+	height: 100%;
+	width: 100%;
+}
+
+body{
+	font-family:sans-serif ;
+	margin: 5px;
+	display: block;
+	padding: 0 ;
+	background-color:#f2f7f7;
+	height: 100%;
+	box-sizing: border-box;
+
+}
+
+.header{
+	margin: 0;
+	padding: 5;
+	background-color: ;
+	background-position: center;
+	
+}
+.header h1{
+	margin: 0;
+	padding: 15px;
+	text-align:left;
+
+}
+.header h5{
+	padding:8px;
+	margin: 0px 25px;
+}
+.navigation{
+	margin:  0px 10px 0px 10px;
+}
+.navigation ul{
+	overflow: hidden;
+	margin:0px;
+	padding: 0px;
+}
+.navigation li{
+	
+	list-style-type: none;
+	float: left;
+	margin: 0;
+	padding: 0px;
+}
+.navigation li a{
+	display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+
+}
+.navigation  li a:hover{
+		opacity: 0.5;
+}
+.btn{
+	padding: 0px;
+	margin: 0;
+	color: black;
+}
+.login-btn:hover{
+	opacity: 0.2;
+}
+
+.content{
+	height: 100%;
+	width: 100%;
+	padding: 0;
+}
+
+.user-profile{
+	margin: 10px;
+	height: 97%;
+	float: left;
+	text-align: center;
+	width: 30%;
+	background-color: white;
+	box-shadow: 10px 10px 10px #888;
+    border-radius: 8px;
+	
+}
+img{
+	display: block;
+	width: 100%;
+	height:auto;
+}
+
+.display-picture{
+
+	background-color: #fff;
+	padding: 0px;
+	position: relative;
+	
+}
+
+.user-details{
+
+	text-align: left;
+	margin: 5px;
+	width:auto;
+	height: auto;
+	padding: 5px;
+		
+}
+
+
+
+.whole{
+	padding: 0px 5px;
+	float: left;
+ 	margin: 10px;
+ 	height: 97%;
+ 	text-align: left;
+ 	width: 60%;
+ 	
+
+}
+
+iframe{
+	border: none;
+}
+
+.footer{
+	position: relative;
+	clear: both;
+	height: 2em;
+	margin: 0;
+	padding: 0px 20px;
+	text-align: center;
+	bottom: 0;
+
+}
+
+.about-content{
+	height: 100%;
+	margin: 30px 30px;
+	padding: 10px;
+	box-shadow: 10px 10px 10px #888888;
+}
+.user-account{
+	padding: 0px 5px;
+	float: left;
+ 	margin: 10px;
+ 	height: 97%;
+ 	text-align: left;
+ 	width: 40%;
+ 	box-shadow: 10px 10px 10px #888;
+}
+.user-account h3{
+	margin: 1px;
+}
+.update_name{
+	padding: 10px;
+}
+.update_name li{
+	padding: 10px;
+	list-style-type: none;
+}
+.update-password{
+	padding: 10px;
+}
+.update-password li{
+	padding: 10px;
+	list-style-type: none;
+}
+.display-response{
+	padding: 0px 5px;
+	float: left;
+ 	margin: 10px;
+ 	height: 97%;
+ 	text-align: left;
+ 	width: 20%;
+ 	
+
+}
+div.entire-post{
+	margin: 10px;
+	padding: 5px;
+}
+.post{
+	padding: 5px;
+}
+.show-users{
+
+	padding: 15px;
+}
+.admin-manage{
+	padding: 10px;
+}
+
+table{
+	width: 40%;
+	height: auto;
+}
+th tr{
+	width: 40%;
+	height: auto;
+}
+
+
+
